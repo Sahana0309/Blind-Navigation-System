@@ -45,7 +45,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOLO-Object-Detection.git
+git clone https://github.com/Sahana0309/YOLO-Object-Detection.git
 cd YOLO-Object-Detection
 
 Run the script:
